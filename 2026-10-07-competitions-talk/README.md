@@ -2,7 +2,7 @@
 
 To register your interest and be contacted when applications open, please fill out this form: https://forms.gle/2exj8dNPg5bz12dn7
 
-For more information, please see the slides (competitions-talk-slides)
+For more information, please see the [slides](/2026-10-07-competitions-talk/competitions_talk_slides.pdf)
 
 ## Competitions
 UniBots: https://unibots.uk/
