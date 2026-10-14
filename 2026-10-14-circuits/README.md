@@ -2,7 +2,8 @@
 
 ## Materials
 
-- [Slides](circuits_slides.pdf) ([PowerPoint](circuits_slides.pptx))
+- [Workshop slides (PowerPoint)](circuits_slides.pptx)
+- [Earlier slides (PDF)](circuits_slides.pdf)
 - [Essential terminology guide](circuits_terminology.pdf)
 
 ## Tinkercad circuits
