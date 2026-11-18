@@ -1,6 +1,6 @@
 # Embedded Systems Workshop | 4 Nov 2026
 
-- [Workshop slides (PDF)](workshop4_slides.pdf)
+- [Workshop Slides](workshop4_slides.pdf)
 
 - Game 1 · [Defuse the bomb](https://www.tinkercad.com/things/iotYXdFkiWC-robosoc-01-defuse-the-bomb-starter?sharecode=lHq2gy9A1wSCP8xoOTZyg5AyZIFd-XWX1VtkeNKyYv4)
 - Game 2 · [Hack the robot](https://www.tinkercad.com/things/220G2oZHqNR-robosoc-02-robot-personality-starter?sharecode=HDA4Qv5gfeZxWU94G3kwozWbXxW3Dk1jsY_1v_MqwB4)
