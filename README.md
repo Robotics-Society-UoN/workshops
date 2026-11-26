@@ -1,6 +1,13 @@
-# RoboSoc Workshops
+```
+   __    ___  ___    ___  __    ___  ___     __    __  ___  __         __          ___  ___  __    
+  /__\  /___\/ __\  /___\/ _\  /___\/ __\   / / /\ \ \/___\/__\  /\ /\/ _\  /\  /\/___\/ _ \/ _\   
+ / \// //  //__\// //  //\ \  //  // /      \ \/  \/ //  // \// / //_/\ \  / /_/ //  // /_)/\ \    
+/ _  \/ \_// \/  \/ \_// _\ \/ \_// /___     \  /\  / \_// _  \/ __ \ _\ \/ __  / \_// ___/ _\ \   
+\/ \_/\___/\_____/\___/  \__/\___/\____/      \/  \/\___/\/ \_/\/  \/ \__/\/ /_/\___/\/     \__/   
+                                                                                                   
+```
 
-This is an archive of all the materials shown in the workshops.
+This is an archive of all the materials shown in the RoboSoc workshops.
 
 If there's anything missing or if you have any questions, please do not hestiate to reach out to us through our socials or email ([robotics@uonsu.com](mailto:robotics@uonsu.com)).
 
